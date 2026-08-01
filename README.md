@@ -1,6 +1,11 @@
 # AI Gadget Advisor - 7th Sem Mini Project (Agentic AI System)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-gadjet-advisor.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Darshankbd%2Fai--gadjet--advisor-181717?style=for-the-badge&logo=github)](https://github.com/Darshankbd/ai-gadjet-advisor)
+
 An interactive, multi-agent AI Gadget Advisor web application tailored for the **Indian E-Commerce Market** (Amazon.in, Flipkart, Croma, Vijay Sales, Reliance Digital). Recommends gadgets based on user requirements, budget, specifications, ratings, and reviews with live reflection loops, session memory, voice search, and head-to-head battle arena duels.
+
+👉 **Live Web Application**: **[https://ai-gadjet-advisor.vercel.app/](https://ai-gadjet-advisor.vercel.app/)**
 
 ---
 
@@ -32,6 +37,7 @@ An interactive, multi-agent AI Gadget Advisor web application tailored for the *
 - **Styling**: Modern Vanilla CSS Glassmorphism Design System
 - **Icons**: Lucide React Icons
 - **Effects**: Canvas Confetti
+- **Deployment**: Vercel
 
 ---
 
@@ -45,8 +51,8 @@ An interactive, multi-agent AI Gadget Advisor web application tailored for the *
 
 1. **Clone the repository**:
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
-   cd ai-gadget-advisor
+   git clone https://github.com/Darshankbd/ai-gadjet-advisor.git
+   cd ai-gadjet-advisor
    ```
 
 2. **Install dependencies**:
